@@ -1,3 +1,3 @@
 $a=Get-Process
 $a.HandleCount
-write-host "count"
+write-host "count is huge"
